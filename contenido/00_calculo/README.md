@@ -2,7 +2,7 @@
 
 1. [Relación entre Machine Learning y Cálculo (Inglés)(10 min de lectura)](https://machinelearningmastery.com/calculus-in-machine-learning-why-it-works/#:~:text=Specifically%2C%20you%20learned%3A-,Calculus%20plays%20an%20integral%20role%20in%20understanding%20the%20internal%20workings,of%20the%20rate%20of%20change.)
 2. [¿Qué es un "modelo"?: Conceptos fundamentales (Español)](https://youtu.be/Sb8XVheowVQ)
-3. [Regresión linea](https://youtu.be/k964_uNn3l0)
+3. [Regresión lineal](https://youtu.be/k964_uNn3l0)
 4. [Gradiente descendiente para ML (Español)](https://youtu.be/A6FiCDoz8_4)
 5. [Rol del gradiente descendiente para medir el desempeño de un modelo (Español)](https://youtube.com/clip/Ugkx9u0LLDe86IR9KW4BMxNAeCN9HgtOKk5Q)
 6. [Pequeño recordatorio del algoritmo de regla de la cadena aplicada para ML (Inglés)](https://youtu.be/zFOD3NR5I4Q)
@@ -25,5 +25,5 @@
         para el Machine Learning :)!
 
 # Material suplementario
-[Calculus in Machine Learning: Why it Works](https://machinelearningmastery.com/calculus-in-machine-learning-why-it-works/#:~:text=Specifically%2C%20you%20learned%3A-,Calculus%20plays%20an%20integral%20role%20in%20understanding%20the%20internal%20workings,of%20the%20rate%20of%20change.)
-[Jacobiana](https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/)
+1. [Calculus in Machine Learning: Why it Works](https://machinelearningmastery.com/calculus-in-machine-learning-why-it-works/#:~:text=Specifically%2C%20you%20learned%3A-,Calculus%20plays%20an%20integral%20role%20in%20understanding%20the%20internal%20workings,of%20the%20rate%20of%20change.)
+2. [Jacobiana](https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/)
